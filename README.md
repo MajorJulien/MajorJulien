@@ -1,13 +1,14 @@
-# Welcome to my profile 👋
+# Welcome to my profile 👨🏻‍💻 
 
-## Introduction
-I am Julien SALOME, passionate about web development and open source technologies.
+I am Julien, passionate about web development and open source technologies.
 
 ## Skills
-- GitHub ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-- Visual Studio Code ![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
-- HTML ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/695px-HTML5_logo_and_wordmark.svg.png)
-- CSS ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png)
+
+![GitHub Logo](https://camo.githubusercontent.com/1f499ee6beba77a6e88b5caae7da20da20f10c607fb8ba412f683325bcac4ea9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
+![VSCode Logo](https://camo.githubusercontent.com/bbd896f9c9e48d9d183388fa5d65828246d5aa7dcd9bd88789c82a1f84b14eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3233413946323f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
+![CSS Logo](https://camo.githubusercontent.com/c41ce8a5d80f9cfeda1f56d455f2424b800906fcd43d36aba4f5a711523be62d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)
+![HTML Logo](https://camo.githubusercontent.com/df22bb1b2358ea1982691c3381dbef5c9680c0135d150e02e348d82e9a0f1fdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)
+![Git Logo](https://camo.githubusercontent.com/87e9dbc9b0fa0b3abeb27a5ec60089b07d7d86131e4a41ac3c54b019c1769e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4634344432373f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
 
 ## Contact
-You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-salome/).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-salome/) <img width="12" src="https://camo.githubusercontent.com/b761bdde0d3de431ae5149b4c915283cc920b979df8cc6b725a5169bb46119f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38312f4c696e6b6564496e5f69636f6e2e7376672f3230343870782d4c696e6b6564496e5f69636f6e2e706e67"/> for any collaboration or professional opportunities.
