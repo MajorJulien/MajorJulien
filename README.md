@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile 👋
 
-<!--
-**MajorJulien/MajorJulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I am Julien SALOME, passionate about web development and open source technologies.
 
-Here are some ideas to get you started:
+## Skills
+- GitHub ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+- Visual Studio Code ![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
+- HTML ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/695px-HTML5_logo_and_wordmark.svg.png)
+- CSS ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-salome/).
