@@ -1,12 +1,8 @@
-<h1 align="center"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Julien+Salomé!;" />
-
-
-</h1>
-<h3 align="center">A frontend developer with a passion for design and content creation.</h3>
-<br/>
-<div align="center">
+<h1 align="center">Hi there !
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="width: 30px;"/></h1>
   
+I'm Julien Salomé, a frontend developer with a passion for design and content creation
+
 ## Skills
 
 ![GitHub Logo](https://camo.githubusercontent.com/1f499ee6beba77a6e88b5caae7da20da20f10c607fb8ba412f683325bcac4ea9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
@@ -16,9 +12,8 @@
 ![VSCode Logo](https://camo.githubusercontent.com/bbd896f9c9e48d9d183388fa5d65828246d5aa7dcd9bd88789c82a1f84b14eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3233413946323f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
 
 ## Contact
-You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-salome/) <img width="12" src="https://camo.githubusercontent.com/b761bdde0d3de431ae5149b4c915283cc920b979df8cc6b725a5169bb46119f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38312f4c696e6b6564496e5f69636f6e2e7376672f3230343870782d4c696e6b6564496e5f69636f6e2e706e67"/> for any collaboration or professional opportunities.
 
-<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-<br>
-<div align=center>
+You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-salome/) <img width="12" src="https://camo.githubusercontent.com/b761bdde0d3de431ae5149b4c915283cc920b979df8cc6b725a5169bb46119f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38312f4c696e6b6564496e5f69636f6e2e7376672f3230343870782d4c696e6b6564496e5f69636f6e2e706e67"/> for any collaboration or professional opportunities,
+or send me a [mail](j.salome.pro@gmail.com) <img width="17" src="https://logos-marques.com/wp-content/uploads/2021/03/Gmail-Logo-500x283.png"/>
+
+<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" /></div></h1>
