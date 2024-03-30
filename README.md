@@ -3,7 +3,7 @@
 
 
 </h1>
-<h3 align="center">A passionate web developer from France <img width="22" src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_France.png"/> </h3>
+<h3 align="center">A frontend developer with a passion for design and content creation.</h3>
 <br/>
 <div align="center">
   
