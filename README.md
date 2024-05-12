@@ -4,6 +4,8 @@
 
 I'm Julien Salomé, a frontend developer with a passion for design and content creation.
 
+See my [Portfolio](https://majorjulien.github.io/WEB_CV.github.io/)
+
 ## Skills
 
 ![GitHub Logo](https://camo.githubusercontent.com/1f499ee6beba77a6e88b5caae7da20da20f10c607fb8ba412f683325bcac4ea9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
